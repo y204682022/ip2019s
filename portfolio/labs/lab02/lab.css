@@ -9,10 +9,10 @@ body {
 
 div {
 	border: solid 1px green;
-	padding: 5px;
+	padding: 0.5px;
 }
 
-p {
+/*p {
 	border: solid 1px blue;
 	padding: 5px;
 }
