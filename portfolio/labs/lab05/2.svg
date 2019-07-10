@@ -1,0 +1,21 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <ellipse fill="white" stroke="black" stroke-width="5" cx="275" cy="275" rx="70" ry="60"/>
+  <path d="M230 280 L180 270" stroke="black" stroke-width="4"/>
+  <path d="M230 300 L180 300" stroke="black" stroke-width="4"/>
+  <path d="M250 320 L190 330" stroke="black" stroke-width="4"/>
+  <path d="M370 270 L320 280" stroke="black" stroke-width="4"/>
+  <path d="M370 300 L320 300" stroke="black" stroke-width="4"/>
+  <path d="M370 330 L310 320" stroke="black" stroke-width="4"/>
+  <polygon fill="white" stroke="black" stroke-width="4" points="250,216 212,245 207,209"/>
+  <polygon fill="white" stroke="black" stroke-width="4" points="300,216 342,250 347,209"/>
+  <circle fill="" stroke="" stroke-width="5" cx="250" cy="280" r="6"/>
+  <circle fill="" stroke="" stroke-width="5" cx="300" cy="280" r="6"/>
+  <polygon fill="red" stroke="black" stroke-width="4" points="300,245 280,250 285,225"/>
+  <polygon fill="red" stroke="black" stroke-width="4" points="320,256 340,270 350,245"/>
+  <circle fill="yellow" stroke="black" stroke-width="3" cx="275" cy="295" r="5"/>
+  <circle fill="red" stroke="black" stroke-width="3" cx="298" cy="245" r="5"/>
+  <circle fill="red" stroke="black" stroke-width="3" cx="322" cy="255" r="5"/>
+  <circle fill="red" stroke="black" stroke-width="5" cx="310" cy="250" r="10"/>  
+</svg>

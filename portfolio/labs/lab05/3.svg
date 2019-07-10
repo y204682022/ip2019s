@@ -1,0 +1,19 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+  
+  <circle fill="blue" stroke="black" stroke-width="2" cx="281" cy="281" r="100"/>
+  <circle fill="white" stroke="" stroke-width="2" cx="281" cy="291" r="80"/>
+  <circle fill="red" stroke="black" stroke-width="2" cx="281" cy="291" r="10"/>
+  <circle fill="white" stroke="black" stroke-width="2" cx="255" cy="217" r="25"/>
+  <circle fill="white" stroke="black" stroke-width="2" cx="305" cy="217" r="25"/>
+  <circle fill="" stroke="black" stroke-width="5" cx="305" cy="217" r="10"/>
+  <circle fill="" stroke="black" stroke-width="5" cx="255" cy="217" r="10"/>
+  <path d="M230 280 L180 270" stroke="black" stroke-width="4"/>
+  <path d="M230 300 L180 300" stroke="black" stroke-width="4"/>
+  <path d="M250 320 L190 330" stroke="black" stroke-width="4"/>
+  <path d="M370 270 L320 280" stroke="black" stroke-width="4"/>
+  <path d="M370 300 L320 300" stroke="black" stroke-width="4"/>
+  <path d="M370 330 L310 320" stroke="black" stroke-width="4"/>
+
+
+</svg>
