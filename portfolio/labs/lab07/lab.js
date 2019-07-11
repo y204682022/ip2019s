@@ -32,6 +32,8 @@ function analyze() {
       subs = remain.slice(m, n+1); // z 也要包含
       console.log('subs = ' + subs);
 
+      var path = image.path(subs).fill('none').stroke({ color:'crimson' , width: 5 }).draggable();
+
       remain = remain.slice(n+1); // z 也要移除
       //console.log('remain = ' + remain);
 
